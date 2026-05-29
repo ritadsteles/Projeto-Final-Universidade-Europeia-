@@ -1,3 +1,8 @@
  Impacto da Inteligência Artificial Generativa no mercado de trabalho (USA)
 
  Estes foram os ficheiros python usados pelas alunas Rita Teles, Marta Nunes e Beatriz Afonso da Universidade Europeia para realizar o Projeto Final da Licenciatura em Ciência de Dados e Gestão.
+
+O presente estudo analisa de que forma a Inteligência Artificial (IA) e a automação de tarefas cognitivas estão a reconfigurar o panorama laboral na maior economia mundial (USA).
+A contextualização histórica demonstra que a atual "Era Tecnológica" difere das revoluções industriais precedentes. A IA Generativa não atua apenas como um acelerador de processos, mas como uma força disruptiva que desloca a relevância das competências técnicas rotineiras. Esta dinâmica introduz o "Paradoxo da Automação", caracterizado pela transição e redefinição de funções em detrimento da eliminação absoluta de postos de trabalho.
+Análises recentes (2020–2026) demonstram um cenário atípico no mercado de trabalho norte-americano, marcado por vagas massivas de demissões em empresas líderes globais (como a Meta, Amazon e Oracle). Este fenómeno reflete um processo de "desacoplamento" entre a produtividade e o emprego, afetando desproporcionalmente os profissionais em início de carreira devido à automação de cargos de nível inicial. Em contrapartida, prevê-se a criação de milhões de novos empregos especializados até 2035. 
+Do ponto de vista metodológico, a investigação recorre à modelação e previsão de uma série temporal baseada em vagas de emprego. Através de uma análise comparativa de modelos clássicos, avaliados por métricas de precisão e erro, procura-se contornar a natureza não linear da tecnologia para traçar tendências e cenários probabilísticos fiáveis. 
